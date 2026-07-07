@@ -1,3 +1,5 @@
+#Dont sell Any codes
+
 pyrogram
 tgcrypto
 requests
@@ -10,3 +12,4 @@ pywidevine
 hachoir
 parse-torrent-title
 m3u8
+
