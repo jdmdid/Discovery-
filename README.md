@@ -1,1 +1,1 @@
-# c76-kratos-bot
+• This is made for educational purposes only
