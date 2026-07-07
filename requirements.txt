@@ -1,0 +1,12 @@
+pyrogram
+tgcrypto
+requests
+pytz
+ffmpeg-python
+PyDrive2
+xmltodict
+lxml
+pywidevine
+hachoir
+parse-torrent-title
+m3u8
