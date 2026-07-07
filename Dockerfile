@@ -1,3 +1,5 @@
+#Dont sell Any codes
+
 FROM python:3.9 
  
 RUN apt -qq update && apt -qq install -y git wget ffmpeg 
